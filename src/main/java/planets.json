@@ -1,0 +1,12 @@
+{
+  'name': 'Earth',
+  'radius': '10',
+  'distanceFromSun': '12.4',
+  'supportsLife': 'true',
+  'moons': [
+    {
+      'name': 'moon',
+      'color': 'silver'
+    }
+  ]
+}
